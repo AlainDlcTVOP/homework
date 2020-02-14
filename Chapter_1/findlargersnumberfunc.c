@@ -23,5 +23,5 @@ void max()
         if (max < a[i])
             max = a[i];
     }
-    printf("maximun number =%d", max);
+    printf("maximun number = %d", max);
 }
